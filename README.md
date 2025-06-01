@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Darren Zeng 
 
-<!--
-**zwldarren/zwldarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **UCI Double Major** (B.S. Computer Science & B.A. Economics)  
+📚 **USC Graduate Student** (M.S. Computer Science)  
+🔭 Research Interests: Data Science | FinTech | Cloud Computing
+ 
+```python
+print("Building better code everyday!")
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+[![zwldarren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwldarren&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💻 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zwldarren&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+⭐️ From [zwldarren](https://github.com/zwldarren)
